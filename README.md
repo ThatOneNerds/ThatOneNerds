@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ThatOneNerds
-- 👀 I’m interested in Python, web development, and Ai
-- 🌱 I’m currently learning Python, Html, and Css
+- 👀 I’m interested in Python, Web Dev, Robotics, and Scripting
+- 🌱 I’m currently learning Python, HTML, CSS
 - 💞️ I’m looking to collaborate on fun little side projects
-- 📫 How to reach me
+- 📫 Email: tlamontm6000@gmail.com
+
 
 <!---
 ThatOneNerds/ThatOneNerds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
